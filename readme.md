@@ -1,4 +1,4 @@
- olá, sou a Giovanna e tenho 17 anos
+ Olá, sou a Giovanna e tenho 17 anos
  
 👩‍💻 Estou cursando Desenvolvimento de Sistemas, no Senai A Jacob Lafer
 
