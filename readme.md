@@ -1,5 +1,6 @@
  olá, sou a Giovanna e tenho 17 anos
-👩‍💻 Faço curso de Desenvolvimento de Sistemas (TI), no Senai
+ 
+👩‍💻 Estou cursando Desenvolvimento de Sistemas, no Senai A Jacob Lafer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
