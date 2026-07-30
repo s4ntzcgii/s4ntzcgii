@@ -1,4 +1,4 @@
-### oiii, sou a Giovanna e tenho 16 anos
+ olá, sou a Giovanna e tenho 17 anos
 👩‍💻 Faço curso de Desenvolvimento de Sistemas (TI), no Senai
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
