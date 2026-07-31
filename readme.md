@@ -16,6 +16,14 @@
 
 ##
 
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=isadias-collab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="165" alt="Estatísticas gerais"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=isadias-collab&layout=compact&theme=tokyonight&hide_border=false&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
+
+</div>
+
 Seja bem-vindo ao meu perfil!
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s4ntzcgi_)
