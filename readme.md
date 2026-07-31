@@ -1,6 +1,6 @@
 # Olá! 👋
 
-## Eu sou a Giovanna Santos
+## Eu sou a Giovanna
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
