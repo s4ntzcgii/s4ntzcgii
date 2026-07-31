@@ -78,7 +78,7 @@ Novos projetos em Java e Desenvolvimento Web.
 
 <td width="33%" align="center">
 
-### 🏅 Lógica de Programação
+### 💲 GERAÇÃO DE VALOR CIRCULAR E MODELOS DE NEGÓCIOS
 
 <img src="https://img.shields.io/badge/SENAI-2026-ff69b4?style=for-the-badge">
 
@@ -86,7 +86,7 @@ Novos projetos em Java e Desenvolvimento Web.
 
 <td width="33%" align="center">
 
-### 💻 Desenvolvimento Web
+### 🛜 CIDADANIA DIGITAL E USO CONSCIENTE DA INTERNET
 
 <img src="https://img.shields.io/badge/SENAI-2026-ff69b4?style=for-the-badge">
 
@@ -94,7 +94,15 @@ Novos projetos em Java e Desenvolvimento Web.
 
 <td width="33%" align="center">
 
-### 🗄️ Banco de Dados com MySQL
+### 🏭 EMPREENDER SENAI
+
+<img src="https://img.shields.io/badge/SENAI-2026-ff69b4?style=for-the-badge">
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIAL
 
 <img src="https://img.shields.io/badge/SENAI-2026-ff69b4?style=for-the-badge">
 
