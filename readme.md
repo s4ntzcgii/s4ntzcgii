@@ -1,31 +1,59 @@
-# Olá! 👋
 
-## Eu sou a Giovanna
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
+<h1 align="center">Giovanna Santos</h1>
 
-🚀 Em busca de estágio
+<h3 align="center">
+Estudante de Análise e Desenvolvimento de Sistemas
+</h3>
 
-📚 Aprendendo:
+<p align="center">
+💻 Desenvolvimento Web • ☕ Java • 🗄️ MySQL
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- Java
-- MySQL
+<p align="center">
+<a href="https://www.linkedin.com/in/giovanna-santos-8b3a00364/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-##
+<a href="mailto:giovannaschreiner15@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="https://instagram.com/s4ntzcgi_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
-<img src="https://github-stats-extended.vercel.app/api?username=s4ntzcgii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="165" alt="Estatísticas gerais"/>
+## 👩🏻‍💻 Sobre mim
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=s4ntzcgii&layout=compact&theme=radical&hide_border=false&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desenvolvimento de software.
 
-</div>
+Atualmente estou focada em aprender Desenvolvimento Web, Java e Banco de Dados, buscando constantemente evoluir através de projetos práticos.
 
-Seja bem-vindo ao meu perfil!
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s4ntzcgi_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannaschreiner15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/giovanna-santos-8b3a00364//)
+Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedora.
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=s4ntzcgii&theme=radical"/>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=s4ntzcgii&layout=compact&theme=radical"/>
+
+</p>
+
+## 📌 Projetos
+
+🌸 Lumière Decor
+Sistema para locação de itens decorativos desenvolvido no SENAI.
+
+📚 Em breve...
+Novos projetos em Java e Desenvolvimento Web.
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=s4ntzcgii&color=ff69b4&style=for-the-badge"/>
+</p>
