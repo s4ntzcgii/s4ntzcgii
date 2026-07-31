@@ -1,5 +1,4 @@
-<img src="Captura de tela 2026-07-30
-153556.png" width="250">
+<img src="Captura de tela 2026-07-30153556.png" width="250">
 <br> 
 
 <h1 align="center">Giovanna Santos</h1>
