@@ -111,6 +111,13 @@ Novos projetos em Java e Desenvolvimento Web.
 </tr>
 </table>
 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=s4ntzcgii&color=ff69b4&style=for-the-badge"/>
 </p>
