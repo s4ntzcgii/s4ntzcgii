@@ -1,15 +1,5 @@
-<img src="Captura de tela 2026-07-30153556.png" width="250">
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/d480fe3c-0f6f-4e43-bed6-d34c9d0c89f7" />
 <br> 
-
-<h1 align="center">Giovanna Santos</h1>
-
-<h3 align="center">
-Estudante de Análise e Desenvolvimento de Sistemas
-</h3>
-
-<p align="center">
-💻 Desenvolvimento Web • ☕ Java • 🗄️ MySQL
-</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/giovanna-santos-8b3a00364/">
@@ -47,13 +37,71 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedora.
 
 </p>
 
-## 📌 Projetos
+<h2>📌 Projetos em destaque</h2>
 
-🌸 Lumière Decor
-Sistema para locação de itens decorativos desenvolvido no SENAI.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div style="border:1px solid #ff7eb6; border-radius:12px; padding:20px;">
+
+<h3>🌸 Lumière Decor</h3>
+
+Sistema para locação de itens decorativos para eventos.
+Projeto Integrador desenvolvido no SENAI-SP.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+
+</div>
+
+</td>
+</tr>
+</table>
 
 📚 Em breve...
 Novos projetos em Java e Desenvolvimento Web.
+
+<h2>🏆 Certificados</h2>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🏅 Lógica de Programação
+
+<img src="https://img.shields.io/badge/SENAI-2026-ff69b4?style=for-the-badge">
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Desenvolvimento Web
+
+<img src="https://img.shields.io/badge/SENAI-2026-ff69b4?style=for-the-badge">
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄️ Banco de Dados com MySQL
+
+<img src="https://img.shields.io/badge/SENAI-2026-ff69b4?style=for-the-badge">
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=s4ntzcgii&color=ff69b4&style=for-the-badge"/>
