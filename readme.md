@@ -22,4 +22,7 @@ Seja bem-vindo ao meu perfil!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannaschreiner15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/giovanna-santos-8b3a00364//)
 
-![Estatísticas do GitHub](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" height="180" />
+  <img src="https://vercel.app" height="180" />
+</p>
