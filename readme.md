@@ -1,5 +1,5 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
-<br>
+<img src="Captura de tela 2026-07-30
+153556.png" width="250">
 <br> 
 
 <h1 align="center">Giovanna Santos</h1>
