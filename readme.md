@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=s4ntzcgii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="165" alt="Estatísticas gerais"/>
+<img src="https://github-stats-extended.vercel.app/api?username=s4ntzcgii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="165" alt="Estatísticas gerais"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=s4ntzcgii&layout=compact&theme=tokyonight&hide_border=false&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=s4ntzcgii&layout=compact&theme=radical&hide_border=false&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
 
 </div>
 
